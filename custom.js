@@ -391,3 +391,6 @@ $(function(){
     });
 
 });
+function BMI(){
+  window.location = "BMI.html";
+}
